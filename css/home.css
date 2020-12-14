@@ -1,0 +1,14 @@
+.title {
+  font-family: fantasy;
+  font-size: 45px;
+  font-weight:
+  margin-top: 5.5px;
+}
+
+
+a {
+/*  float: left;*/
+  text-decoration: none;
+  color: gray;
+  font-size: 25px;
+}
