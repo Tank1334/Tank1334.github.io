@@ -1,0 +1,50 @@
+.intro #title {
+  margin-bottom: 25px;
+}
+
+.intro #aboutme {
+  font-family: sans-serif;
+  letter-spacing: 0px;
+  text-align: left;
+  color: black;
+/*  width: 55%;*/
+  /*width: 350px; */
+  padding: 20px;
+  border: 5px solid rgba(153, 204, 255, 0.1);
+}
+
+.IndieDD {
+  text-decoration: none;
+  color: #4c1bf2;
+}
+
+.IndieDD:hover {
+  color: #6c687a;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+
+body {
+  background-color: rgba(153, 204, 255, 0.75);
+}
+
+.skill li {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.noFormat{
+  text-decoration: none;
+
+}
+
+.noFormat:hover {
+  color: #6c687a;
+}
